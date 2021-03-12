@@ -1,0 +1,51 @@
+font-size;50px;/*for text size*/
+padding-left:20px;/*for space between left side and text*/
+}
+p
+{
+color:white;
+margin-left:100px;
+margin-right:100px;
+}h3
+{
+color: black;/*to give a text color*/
+background-color:white;/*for background color*/
+margin-left:100px;/*for space in left side*/
+margin-right:100px;/*for space in right side*/
+border-radius:10px;/*for curve shape*/
+text-decoration:underline;/*for underline text*/
+font-size;50px;/*for text size*/
+padding-left:20px;/*for space between left side and text*/
+}
+p{
+color:white;
+margin-left:100px;
+}
+h4
+{
+color: black;/*to give a text color*/
+background-color:white;/*for background color*/
+margin-left:100px;/*for space in left side*/
+margin-right:100px;/*for space in right side*/
+border-radius:10px;/*for curve shape*/
+text-decoration:underline;/*for underline text*/
+font-size;50px;/*for text size*/
+padding-left:20px;/*for space between left side and text*/
+}
+p{
+color:white;
+margin-left:100px;
+}h5
+{
+color: black;/*to give a text color*/
+background-color:white;/*for background color*/
+margin-left:100px;/*for space in left side*/
+margin-right:100px;/*for space in right side*/
+border-radius:10px;/*for curve shape*/
+text-decoration:underline;/*for underline text*/
+font-size;50px;/*for text size*/
+padding-left:20px;/*for space between left side and text*/
+}p{
+color:white;
+margin-left:100px;
+}

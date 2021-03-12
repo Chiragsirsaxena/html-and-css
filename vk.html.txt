@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Virat Kohli</title>
+<link rel="stylesheet" href="vk.css">
+</head>
+<body>
+<h1>Virat kohli</h1>
+<img src="C:\Users\hp\Downloads\vk2.jpg">
+
+<img src="C:\Users\hp\Downloads\vk3.jpg">
+<img src="c:\Users\hp\Downloads\vk4.jpg">
+<h2>About</h2>
+<p>Virat Kohli is an Indian cricketer and the current captain of the India national team. A right-handed top-order batsman, Kohli is regarded as one of the best contemporary batsmen in the world. He plays for Royal Challengers Bangalore in the Indian Premier League.</p>
+<h3>Carrier Information</h3>
+<p>Test debutvs West Indies at Sabina Park, Jun 20, 2011<br>ODI debutvs Sri Lanka at Rangiri Dambulla International Stadium, Aug 18, 2008<br>T20 debutvs Zimbabwe at Harare Sports Club, Jun 12, 2010<br>IPL debutvs Kolkata Knight Riders at M.Chinnaswamy Stadium, Apr 18, 2008<br</p>
+<h4>VIRAT KOHLI RECORDS</h4>
+<p>Virat Kohli is the only Indian batsman who got 890 rating points in the ICC ODI ranking. Previously Sachin Tendulkar got the best rating of 887 in 1998.<br>
+Virat Kolhi has the record of having the highest ICC rating points (922) in the ICC Player Rankings for Test Batsmen.<br>
+Virat Kohli scored six double centuries as a captain in test matches. He surpassed Cricket legend Brian Lara, who had five double centuries as a test captain.<br>
+Virat Kohli became the first player to hit consecutive 3 centuries in against two opponents (West Indies & Sri Lanka).<br>
+ Kolhi is the most successful Indian ODI captain. Kohli’s success rate is 75.89% as a captain which is better than M.S. Dhoni.<br></p>
+<h5>Virat Kohli Awards</h5>
+<p>Sir Garfield Sobers Trophy (ICC Cricketer of the Year): 2017<br>
+ICC ODI Player of the Year: 2012, 2017<br>
+ICC Test Team of the Year: 2017 (captain)<br>
+Padma Shri: 2017<br>
+ICC ODI Team of the Year: 2012, 2014, 2016 (captain), 2017 (captain)<br>
+Arjuna Award: 2013<br>
+Rajiv Gandhi Khel Ratna: 2018<br></p>
+</body>
+</html>
