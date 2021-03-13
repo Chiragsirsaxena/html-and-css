@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Kieron Pollard</title>
+<link rel="stylesheet" href="vk.css">
+</head>
+<body>
+<h1>Kieron Pollard</h1>
+<img src="C:\Users\hp\Downloads\kp.jpg">
+
+<img src="C:\Users\hp\Downloads\kp1.jpg">
+<img src="c:\Users\hp\Downloads\kp2.jpg">
+<h2>About</h2>
+<p>Kieron Adrian Pollard is a Trinidadian cricketer. He captains the West Indies cricket team in limited overs cricket. An aggressive all-rounder, Pollard is a medium-pace bowler and big-hitting batsman in the middle-order..</p>
+<h3>Career Information</h3>
+<p>ODI debutvs South Africa at National Cricket Stadium, Apr 10, 2007<br>T20 debutvs Australia at Kensington Oval, Jun 20, 2008<br>IPL debutvs Delhi Capitals at Arun Jaitley Stadium, Mar 17, 2010<br</p>
+<h4>Kieron Pollard RECORDS</h4>
+<p>One of the only three Batsmen to hit six sixes in an over<br>
+First Cricketer to play 500 T20s Matches<br>
+Second Batsmen to score 10,000+ runs in T20s.<br></p>
+<h5>Kieron Pollard Awards</h5>
+<p>KIERON POLLARD (SUPER-STRIKER): Mumbai Indians star Kieron Pollard collected the award for the super-striker of the season by notching the highest strike-rate of 191.42<br>Among those 268 runs were 15 fours and 22 majestic sixes.<br></p>
+</body>
+</html>

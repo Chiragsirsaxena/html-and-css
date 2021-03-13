@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Aaron Finch</title>
+<link rel="stylesheet" href="vk.css">
+</head>
+<body>
+<h1>Aaron Finch</h1>
+<img src="C:\Users\hp\Downloads\af.jpg">
+
+<img src="C:\Users\hp\Downloads\af1.jpg">
+<img src="c:\Users\hp\Downloads\af2.jpg">
+<h2>About</h2>
+<p>Aaron James Finch is an Australian international cricketer who captains the Australian cricket team in limited overs cricket.</p>
+<h3>Career Information</h3>
+<p>Test debutvs Pakistan at Dubai International Cricket Stadium , Oct 07, 2018<br>ODI debutvs Sri Lanka at Melbourne Cricket Ground, Jan 11, 2013<br>T20 debutvs England at Adelaide Oval, Jan 12, 2011<br>IPL debutvs Kolkata Knight Riders at Eden Gardens, Apr 17, 2010<br</p>
+<h4>Aaron Finch RECORDS</h4>
+<p>Finch holds the record for the highest individual score of 172 runs in T20I and is also the highest individual score by an opener and a captain.<br> He is also the first batsman to score a 150 in a T20I inning.<br> He also holds the record of scoring the most number of fours by a player in a completed T20I innings with 16.<br> In 2015, Finch became the first batsman to score 100 runs in the Big Bash League.
+<br></p>
+<h5>Aaron Finch Awards</h5>
+<p>Male ODI Player of the Year<br>He was awarded the Men's T20I Player of the Year at the Allan Border Medal ceremony by Cricket Australia in 2014. <br></p>
+</body>
+</html>

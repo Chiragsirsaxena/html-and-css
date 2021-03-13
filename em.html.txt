@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Eoin Morgan</title>
+<link rel="stylesheet" href="em.css">
+</head>
+<body>
+<h1>Eoin Morgan</h1>
+<img src="C:\Users\hp\Downloads\em.jpg">
+
+<img src="C:\Users\hp\Downloads\em1.jpg">
+<img src="c:\Users\hp\Downloads\em2.jpg">
+<h2>About</h2>
+<p>Eoin Joseph Gerard Morgan CBE is an Irish-born cricketer who captains the England cricket team in limited overs cricket, Kolkata Knight Riders in the Indian Premier League and Middlesex in the Vitality t20 Blast</p>
+<h3>CareerInformation</h3>
+<p>Test debutvs Bangladesh at Lord's, May 27, 2010<br> Feb 03, 2012ODI debutvs Scotland at Cambusdoon New Ground, Aug 05, 2006<br>T20 debutvs Netherlands at Lord's, Jun 05, 2009<br>IPL debutvs Kolkata Knight Riders at Eden Gardens, Mar 14, 2010 <br</p>
+<h4>Eoin Morgan RECORDS</h4>
+<p>First cricketer to score a first-class double century for Ireland (209* against the United Arab Emirates)<br>
+First batsman to be dismissed for 99 on ODI debut.<br>
+Third youngest ever non-subcontinental player to make a century in ODI cricket.<br></p>
+<h5>Eoin Morgan Awards</h5>
+<p>ICC ODI Player of the Year:  2019<br>
+ICC T20 Team of the Year: 2020 (captain)<br>
+ICC ODI Team of the Year: 2018 (captain)<br></p>
+</body>
+</html>
