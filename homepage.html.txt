@@ -1,0 +1,10 @@
+<html>
+<head>
+<link rel="stylesheet" href="Homepage.css">
+</head>
+
+<body background="C:\Users\hp\Downloads\ci.jpg" style ="background-repeat:no-repeat; background-size:100% 100%">
+<h1><img src="C:\Users\hp\Downloads\cb.jpg"> <a href="Homepage.html">Homepage</a>&nbsp;&nbsp; <a href="vk.html">Virat Kohli</a>&nbsp;&nbsp;   <a href="em.html"> Eoin Morgan</a>&nbsp;&nbsp; <a href="kw.html"> Kane Williamson</a>&nbsp;&nbsp;   <a href="af.html">Aaron Finch</a>&nbsp;&nbsp; <a href="kp.html">Kieron Pollard</a></h1>
+
+</body>
+</html>
